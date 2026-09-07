@@ -10,6 +10,7 @@ Es una pagina estatica
 
 ## URL desplegada
 <!-- El enlace donde funciona y se puede jugar -->
+No tiene URL propia
 
 ## Qué aprendí
 <!-- Lo que te costó, lo que resolviste y cómo -->
