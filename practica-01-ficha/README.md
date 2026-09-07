@@ -2,7 +2,7 @@
 
 ## Qué hice
 <!-- Dos o tres líneas sobre qué construiste -->
-Mi ficha de mi jugador
+Mi ficha de mi jugador en el cual relato la vida de kratos y el impacto que me genero a mi
 
 ## Cómo correrlo
 <!-- Los comandos exactos, o el enlace si es una página estática -->
